@@ -1,6 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-
 """
 Composite-Key Stock Compare — Tkinter + SQLAlchemy (SQLite in-memory)
 Compact UI edition
